@@ -93,7 +93,8 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-![r](robo_1.png) ![r](robo_2.png)
+![r](robo_1.jpeg) 
+![r](robo_2.jpeg)
 
 
 <br/>
@@ -107,7 +108,7 @@ if _name_ == '_main_':
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/lL-Dpng6I4U)](https://youtu.be/lL-Dpng6I4U)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lL-Dpng6I4U/0.jpg)](https://youtu.be/lL-Dpng6I4U)
 
 <br/>
 <br/>

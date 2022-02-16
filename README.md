@@ -9,25 +9,20 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 ## Procedure
 
-Step1:
+### Step1: 
+Initiate the MobileRobot.
 
-<br/>
+### Step2: 
+Connect your PC with the MobileRobot.
 
-Step2:
+### Step3: 
+Open Python program.
 
-<br/>
+### Step4: 
+Program the movements of the robot using python code.
 
-Step3:
-
-<br/>
-
-Step4:
-
-<br/>
-
-Step5:
-
-<br/>
+### Step5: 
+Execute the python program.
 
 ## Program
 ```
@@ -99,8 +94,7 @@ if _name_ == '_main_':
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 

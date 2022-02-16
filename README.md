@@ -94,7 +94,7 @@ if _name_ == '_main_':
 ![robo](./img/robomaster.png)
 
 ![r](robo_1.jpeg) 
-![r](robo_2.jpeg)
+
 
 
 <br/>
